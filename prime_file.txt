@@ -1,0 +1,6 @@
+True	True	False	False	False
+True	True	False	False	False	True
+Prime numbers up to 11 are: [2, 3, 5, 7, 11]
+Prime numbers up to 45 are: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43]
+Prime numbers in the list [5, 890, 90] are : [5]
+Goodbye!

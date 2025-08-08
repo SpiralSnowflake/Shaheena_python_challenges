@@ -1,0 +1,3 @@
+The sum of -4.0 and -78.0 is -82.00
+The difference of -4.0 and -78.0 is 74.00
+The product of -9.7 and -67.0 is 649.90

@@ -1,0 +1,3 @@
+
+Analyzing word frequencies in 'test_text.txt':
+Word Frequencies :  'the': 2  'cat': 1  'and': 1  'hat': 1
